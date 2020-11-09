@@ -1,0 +1,40 @@
+.container {
+  margin: 0 auto;
+}/* 追記 */
+.contact tr{
+  height: 5rem;
+}
+.contact th{
+  width: 150px;
+  color: #00000;
+  text-align: right;
+}
+.contact td{
+  width: 480px;
+  height: 7rem;
+}
+.box{
+  width: 480px;
+}
+textarea, box{
+  resize: vertical;
+  width: 480px;
+  height: 70px;
+}
+.text {
+width: 480px;
+}
+.btn-area{
+  text-align: center;
+}
+.contact-submit:hover {
+  opacity: 0.6;
+}
+input#submit_button{
+  width: 100px;
+  height: 50px;
+  font-size: 1.2em;
+  color: #FFFFFF;
+  background: #3399FF;
+  border-style: none;
+}
